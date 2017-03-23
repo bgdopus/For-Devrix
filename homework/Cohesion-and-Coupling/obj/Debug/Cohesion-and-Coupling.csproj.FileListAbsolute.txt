@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\High-Quality-Code-Part-1\Topics\08. High-quality-Classes\homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\High-Quality-Code-Part-1\Topics\08. High-quality-Classes\homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Daniel\Documents\High-Quality-Code-Part-1\Topics\08. High-quality-Classes\homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Daniel\Documents\High-Quality-Code-Part-1\Topics\08. High-quality-Classes\homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Daniel\Documents\High-Quality-Code-Part-1\Topics\08. High-quality-Classes\homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
